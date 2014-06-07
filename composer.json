@@ -1,0 +1,18 @@
+{
+	"name": "bhargav2785/WordpresRestApi",
+	"type": "library",
+	"description": "PHP Rest API wrapper for your Wordpress blog",
+	"keywords": ["wordpress", "php", "rest api", "rest", "api"],
+	"authors": [
+		{
+			"name": "Bhargav Vadher"
+		}
+	],
+	"require": {
+		"php": ">=5.3"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~4.0",
+		"bhargav2785/iniparser": "dev-master"
+	}
+}
