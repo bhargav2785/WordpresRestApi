@@ -1,5 +1,5 @@
 {
-	"name": "bhargav2785/WordpresRestApi",
+	"name": "bhargav2785/WordpressRestApi",
 	"type": "library",
 	"description": "PHP Rest API wrapper for your Wordpress blog",
 	"keywords": ["wordpress", "php", "rest api", "rest", "api"],
